@@ -12,16 +12,7 @@
           "template": "{{ .UserName }} ",
           "type": "session"
         },
-         {
-          "type": "php",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "foreground": "#ffffff",
-          "background": "#0984e3",
-          "properties": {
-            "display_mode": "context"
-          }
-        },
+         
         {
           "background": "#bd93f9",
           "foreground": "#f8f8f2",
